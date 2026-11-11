@@ -1,0 +1,6 @@
+{
+  "name": "TransRail Network Simulator",
+  "description": "High-fidelity railway management and network expansion simulator featuring real Asian and global corridors, train fleet procurement, custom livery designer, dynamic weather, and economic shifts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
